@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "783127688526",
+    "firebase_url": "https://chat-new-58169.firebaseio.com",
+    "project_id": "chat-new-58169",
+    "storage_bucket": "chat-new-58169.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783127688526:android:f93ed10ba3e71fef",
+        "android_client_info": {
+          "package_name": "com.mehul.example.chats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783127688526-svabnqmut0fkgmk6v5btt8csgkqka3tn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mehul.example.chats",
+            "certificate_hash": "d2118d879aee041deda3b867aacee042aded3871"
+          }
+        },
+        {
+          "client_id": "783127688526-psdele21jd3dkm5tpj3cgfa7ki398nb5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "783127688526-psdele21jd3dkm5tpj3cgfa7ki398nb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGJpYlQacbt1gBRy2BDD4w6QpGDzstzXU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783127688526-psdele21jd3dkm5tpj3cgfa7ki398nb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
